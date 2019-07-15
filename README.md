@@ -1,2 +1,2 @@
-# springboot-validation
-Spring Rest Validations
+# spring-validation
+spring-rest-validation-example
